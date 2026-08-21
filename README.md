@@ -1,8 +1,8 @@
 # Hi, I'm Adeola Praise 👋
 
-AI Engineer and Backend Systems Developer focused on building intelligent systems and scalable backend platforms.
+Software/Full-Stack Engineer & a certified AI Engineer focused on building intelligent systems and scalable platform.
 
-My work sits at the intersection of **AI agents, backend architecture, and real-world service automation**. I enjoy designing systems that translate complex ideas into reliable production software.
+My work sits at the intersection of **AI agents, system architecture, and real-world service automation**. I enjoy designing systems that translate complex ideas into reliable production software.
 
 ---
 
