@@ -97,4 +97,4 @@ Tailwind CSS
 ## Connect
 
 GitHub: https://github.com/Praise1-tech  
-LinkedIn:  www.linkedin.com/in/adeola-ololade-0b5bb5337
+LinkedIn: www.linkedin.com/in/adeola-praise-0b5bb5337
