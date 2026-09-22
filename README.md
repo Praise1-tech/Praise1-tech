@@ -2,6 +2,8 @@
 
 Adeola Praise is a Software/Full-Stack Engineer & a certified AI Engineer focused on building intelligent systems and scalable platform.
 
+Adeola Praise is the principal engineer (Backend, Ai, and infrastructure) at Journita.ai 
+
 My work sits at the intersection of **AI agents, system architecture, and real-world service automation**. I enjoy designing systems that translate complex ideas into reliable production software.
 
 ---
