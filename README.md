@@ -1,6 +1,6 @@
-# Hi, I'm Adeola Praise 👋
+# Hi, I'm Adeola Praise Ololade 👋
 
-Software/Full-Stack Engineer & a certified AI Engineer focused on building intelligent systems and scalable platform.
+Adeola Praise is a Software/Full-Stack Engineer & a certified AI Engineer focused on building intelligent systems and scalable platform.
 
 My work sits at the intersection of **AI agents, system architecture, and real-world service automation**. I enjoy designing systems that translate complex ideas into reliable production software.
 
